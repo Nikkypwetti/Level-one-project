@@ -1,0 +1,133 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.navlink :hover{
+    color: blue;
+}
+.gray {
+    height:20px;
+    width: 20px;
+    border-radius: 50%;
+    background-color: gray;
+}
+.mark{
+    height:20px;
+    width: 20px;
+    border-radius: 50%;
+    background-color: white;
+}
+.red {
+    height:20px;
+    width: 20px;
+    border-radius: 50%;
+    background-color: rgb(199, 67, 67);
+}
+.blue {
+    height:20px;
+    width: 20px;
+    border-radius: 50%;
+    background-color: rgb(175, 183, 230);
+}
+.green {
+    height:20px;
+    width: 20px;
+    border-radius: 50%;
+    background-color: rgb(155, 246, 155);
+}
+
+.seemore{
+    position: absolute;
+    right: 76%
+}
+
+.multiples {
+    position: absolute;
+    bottom: -650%;
+    right: -530px;
+    font-weight: 700;
+}
+.image1 {
+    background-image: url() ;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 345px;
+    height: 442px;
+}
+
+.image2 {
+   background-image: url(../Level\ 1\ project/.image1);
+   background-position: center;
+   background-size: cover;
+   background-repeat: no-repeat;
+   width: 345px;
+   height: 442px;
+}
+.image3 {
+    background-image: url(../Level\ 1\ project/.image1);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 345px;
+    height: 442px;
+ }
+
+ .image4 {
+    background-image: url(../Level\ 1\ project/);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 345px;
+    height: 442px;
+ }
+ .image5 {
+    background-image: url(../Level\ 1\ project/Item5);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 345px;
+    height: 442px;
+ }
+ .image6 {
+    background-image: url(../Level\ 1\ project/item6-1);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 345px;
+    height: 442px;
+ }
+ .newheart {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+ }
+ .position{
+    position: absolute !important;
+    bottom: -87%;
+ }
+
+.numbers{
+    gap: .8rem;
+    margin-right: px;
+    
+}
+
+.foot{
+   
+    background-color: #f6f6f6;
+    margin-bottom: 20px;
+}
+.carousel-caption {
+    
+    position: absolute;
+    top: 350px;
+    left: 180px;
+    position: absolute;
+    width: 499px;
+    height: 58px;
+
+}
